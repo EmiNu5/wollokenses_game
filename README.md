@@ -1,3 +1,7 @@
 # Los wollokenses!!
 
-Agregar un comentario en el readme
+### Integrantes
+
+* Alan
+* Valentin
+* Emiliano
